@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ZhangYu
+- 👋 Hi, I’m Zhang Yu
 - 👀 I’m interested in everything i'm inteseted
 - 🌱 I’m currently learning c&html
 - 💞️ I’m looking to collaborate on nbpeople
